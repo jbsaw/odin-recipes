@@ -1,3 +1,10 @@
 * {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+h1 {
+    font-family: Georgia, "Lucida Handwriting", cursive;
+    color: rgb(5, 66, 25);
+    background-color:rgb(204, 204, 204);
+    text-align: center;
+}
